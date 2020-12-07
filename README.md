@@ -1,14 +1,14 @@
-# kill_subdomain
+# fetch_subdomain
 
 This tool will show all the subdomains of the target domain in the minimum time.
 
 Installation:-
 
 
-$ git clone https://github.com/Dineshboss/kill_subdomain.git
+$ git clone https://github.com/Dineshboss/fetch_subdomain.git
 
 
-$ cd kill_subdomain
+$ cd fetch_subdomain
 
 
 $ python crawler.py
