@@ -5,7 +5,7 @@ This tool will show all the subdomains of the target domain in the minimum time.
 Installation:-
 
 
-$ git clone https://github.com/Dineshboss/fetch_subdomain.git
+$ git clone https://github.com/yash7766/fetch_subdomain.git
 
 
 $ cd fetch_subdomain
